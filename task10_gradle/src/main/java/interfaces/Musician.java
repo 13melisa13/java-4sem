@@ -1,8 +1,8 @@
 package interfaces;
 
-import org.springframework.stereotype.Component;
+import org.springframework.context.annotation.Bean;
 
-@Component
+
 public interface Musician {
 
     void doMusic();

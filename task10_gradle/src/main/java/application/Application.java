@@ -14,7 +14,7 @@ public class Application {
         try {
             for (String s: context.getBeanDefinitionNames())
                 System.out.println(s);
-            System.out.println();
+
             Kostya kostya =  new Kostya(context.getBean(args[0], Musician.class));
             kostya.music();
         } catch (IndexOutOfBoundsException e) {

@@ -1,8 +1,8 @@
 package components;
 import interfaces.Musician;
-import org.springframework.stereotype.Component;
 
-@Component
+
+
 public class Kostya {
     private final Musician musician;
 
@@ -13,5 +13,10 @@ public class Kostya {
     public void music(){
         System.out.println("Kostya: ");
         musician.doMusic();
+    }
+
+    @Override
+    public String toString() {
+        return "KostyaToStr";
     }
 }

@@ -1,8 +1,7 @@
 package components;
-
 import interfaces.Musician;
 import org.springframework.stereotype.Component;
-@Component
+@Component ("trombone")
 public class Trombonist implements Musician {
     @Override
     public void doMusic() {

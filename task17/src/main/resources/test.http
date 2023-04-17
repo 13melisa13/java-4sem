@@ -1,0 +1,22 @@
+###
+POST http://localhost:8080/games/one1/11.07.2004
+###
+POST http://localhost:8080/games/one2/12.07.2004
+###
+POST http://localhost:8080/games/two/12.07.2004
+###
+GET http://localhost:8080/games
+###
+GET http://localhost:8080/gamesFilteredName/one
+
+###
+POST http://localhost:8080/game_authors/first/14.01.2004/{{gameId}}/
+###
+POST http://localhost:8080/game_authors/second/15.01.2004/{{gameId}}/
+###
+POST http://localhost:8080/game_authors/third/17.01.2004/{{gameId}}/
+
+###
+GET http://localhost:8080/game_authors
+###
+GET http://localhost:8080/game_authorsFilteredBetween/13.01.2004/16.01.2004

@@ -1,0 +1,621 @@
+4979 [main] INFO  c.e.task1424.Task1424Application
+                Ц Starting Task1424Application using Java 19.0.2 with PID 13912 (F:\IdeaProjects\java-4sem\task19\build\classes\java\main started by ¬ладелец in F:\IdeaProjects\java-4sem\task19)
+4982 [main] INFO  c.e.task1424.Task1424Application
+                Ц No active profile set, falling back to 1 default profile: "default"
+6430 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate
+                Ц Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+6500 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate
+                Ц Finished Spring Data repository scanning in 56 ms. Found 2 JPA repository interfaces.
+7431 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer
+                Ц Tomcat initialized with port(s): 8080 (http)
+7507 [main] INFO  o.a.coyote.http11.Http11NioProtocol
+                Ц Initializing ProtocolHandler ["http-nio-8080"]
+7508 [main] INFO  o.a.catalina.core.StandardService
+                Ц Starting service [Tomcat]
+7508 [main] INFO  o.a.catalina.core.StandardEngine
+                Ц Starting Servlet engine: [Apache Tomcat/10.1.7]
+7730 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]
+                Ц Initializing Spring embedded WebApplicationContext
+7730 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext
+                Ц Root WebApplicationContext: initialization completed in 2685 ms
+7989 [main] INFO  com.zaxxer.hikari.HikariDataSource
+                Ц HikariPool-1 - Starting...
+10196 [main] INFO  com.zaxxer.hikari.pool.HikariPool
+                Ц HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@1f66d8e1
+10198 [main] INFO  com.zaxxer.hikari.HikariDataSource
+                Ц HikariPool-1 - Start completed.
+10258 [main] INFO  o.h.jpa.internal.util.LogHelper
+                Ц HHH000204: Processing PersistenceUnitInfo [name: default]
+10344 [main] INFO  org.hibernate.Version
+                Ц HHH000412: Hibernate ORM core version 6.1.7.Final
+10832 [main] INFO  SQL dialect
+                Ц HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+13513 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator
+                Ц HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+15287 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean
+                Ц Initialized JPA EntityManagerFactory for persistence unit 'default'
+16072 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration
+                Ц spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+17954 [main] INFO  o.a.coyote.http11.Http11NioProtocol
+                Ц Starting ProtocolHandler ["http-nio-8080"]
+17987 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer
+                Ц Tomcat started on port(s): 8080 (http) with context path ''
+17997 [main] INFO  c.e.task1424.Task1424Application
+                Ц Started Task1424Application in 15.474 seconds (process running for 20.168)
+865418 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean
+                Ц Closing JPA EntityManagerFactory for persistence unit 'default'
+865503 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource
+                Ц HikariPool-1 - Shutdown initiated...
+865532 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource
+                Ц HikariPool-1 - Shutdown completed.
+2878 [main] INFO  c.e.task1424.Task1424Application
+                Ц Starting Task1424Application using Java 19.0.2 with PID 7708 (F:\IdeaProjects\java-4sem\task19\build\classes\java\main started by ¬ладелец in F:\IdeaProjects\java-4sem\task19)
+2885 [main] INFO  c.e.task1424.Task1424Application
+                Ц No active profile set, falling back to 1 default profile: "default"
+5911 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate
+                Ц Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+6007 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate
+                Ц Finished Spring Data repository scanning in 79 ms. Found 2 JPA repository interfaces.
+8039 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer
+                Ц Tomcat initialized with port(s): 8080 (http)
+8109 [main] INFO  o.a.coyote.http11.Http11NioProtocol
+                Ц Initializing ProtocolHandler ["http-nio-8080"]
+8110 [main] INFO  o.a.catalina.core.StandardService
+                Ц Starting service [Tomcat]
+8110 [main] INFO  o.a.catalina.core.StandardEngine
+                Ц Starting Servlet engine: [Apache Tomcat/10.1.7]
+8288 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]
+                Ц Initializing Spring embedded WebApplicationContext
+8288 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext
+                Ц Root WebApplicationContext: initialization completed in 5315 ms
+8489 [main] INFO  com.zaxxer.hikari.HikariDataSource
+                Ц HikariPool-1 - Starting...
+8812 [main] INFO  com.zaxxer.hikari.pool.HikariPool
+                Ц HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@75d366c2
+8815 [main] INFO  com.zaxxer.hikari.HikariDataSource
+                Ц HikariPool-1 - Start completed.
+8881 [main] INFO  o.h.jpa.internal.util.LogHelper
+                Ц HHH000204: Processing PersistenceUnitInfo [name: default]
+8982 [main] INFO  org.hibernate.Version
+                Ц HHH000412: Hibernate ORM core version 6.1.7.Final
+9552 [main] INFO  SQL dialect
+                Ц HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+11699 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator
+                Ц HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+11713 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean
+                Ц Initialized JPA EntityManagerFactory for persistence unit 'default'
+12218 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration
+                Ц spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+13898 [main] INFO  o.a.coyote.http11.Http11NioProtocol
+                Ц Starting ProtocolHandler ["http-nio-8080"]
+13933 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer
+                Ц Tomcat started on port(s): 8080 (http) with context path ''
+13942 [main] INFO  c.e.task1424.Task1424Application
+                Ц Started Task1424Application in 12.164 seconds (process running for 16.278)
+31083 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]
+                Ц Initializing Spring DispatcherServlet 'dispatcherServlet'
+31083 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet
+                Ц Initializing Servlet 'dispatcherServlet'
+31084 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet
+                Ц Completed initialization in 1 ms
+31138 [http-nio-8080-exec-1] INFO  c.e.task1424.services.GameService
+                Ц Save new game Game(gameId=null, name=two, creationDate=Mon Jul 12 00:00:00 MSD 2004, authors=null)
+35324 [http-nio-8080-exec-3] INFO  c.e.task1424.services.GameService
+                Ц Find all games
+71948 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean
+                Ц Closing JPA EntityManagerFactory for persistence unit 'default'
+71951 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource
+                Ц HikariPool-1 - Shutdown initiated...
+71958 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource
+                Ц HikariPool-1 - Shutdown completed.
+367  [Test worker] INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils
+                Ц Could not detect default configuration classes for test class [com.example.task1424.Task1424ApplicationTests]: Task1424ApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+1395 [Test worker] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper
+                Ц Found @SpringBootConfiguration com.example.task1424.Task1424Application for test class com.example.task1424.Task1424ApplicationTests
+3870 [Test worker] INFO  c.e.t.Task1424ApplicationTests
+                Ц Starting Task1424ApplicationTests using Java 19.0.2 with PID 12844 (started by ¬ладелец in F:\IdeaProjects\java-4sem\task20)
+3871 [Test worker] INFO  c.e.t.Task1424ApplicationTests
+                Ц No active profile set, falling back to 1 default profile: "default"
+4474 [Test worker] INFO  o.s.d.r.c.RepositoryConfigurationDelegate
+                Ц Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+4537 [Test worker] INFO  o.s.d.r.c.RepositoryConfigurationDelegate
+                Ц Finished Spring Data repository scanning in 51 ms. Found 2 JPA repository interfaces.
+5172 [Test worker] INFO  com.zaxxer.hikari.HikariDataSource
+                Ц HikariPool-1 - Starting...
+5470 [Test worker] INFO  com.zaxxer.hikari.pool.HikariPool
+                Ц HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@6e24ce51
+6456 [Test worker] INFO  com.zaxxer.hikari.HikariDataSource
+                Ц HikariPool-1 - Start completed.
+6524 [Test worker] INFO  o.h.jpa.internal.util.LogHelper
+                Ц HHH000204: Processing PersistenceUnitInfo [name: default]
+6627 [Test worker] INFO  org.hibernate.Version
+                Ц HHH000412: Hibernate ORM core version 6.1.7.Final
+7233 [Test worker] INFO  SQL dialect
+                Ц HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+8225 [Test worker] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator
+                Ц HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+9273 [Test worker] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean
+                Ц Initialized JPA EntityManagerFactory for persistence unit 'default'
+9978 [Test worker] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration
+                Ц spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+10444 [Test worker] INFO  c.e.t.Task1424ApplicationTests
+                Ц Started Task1424ApplicationTests in 8.856 seconds (process running for 11.44)
+10722 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean
+                Ц Closing JPA EntityManagerFactory for persistence unit 'default'
+11973 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource
+                Ц HikariPool-1 - Shutdown initiated...
+11983 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource
+                Ц HikariPool-1 - Shutdown completed.
+436  [Test worker] INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils
+                Ц Could not detect default configuration classes for test class [com.example.task1424.Task1424ApplicationTests]: Task1424ApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+1072 [Test worker] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper
+                Ц Found @SpringBootConfiguration com.example.task1424.Task1424Application for test class com.example.task1424.Task1424ApplicationTests
+3591 [Test worker] INFO  c.e.t.Task1424ApplicationTests
+                Ц Starting Task1424ApplicationTests using Java 19.0.2 with PID 12756 (started by ¬ладелец in F:\IdeaProjects\java-4sem\task20)
+3593 [Test worker] INFO  c.e.t.Task1424ApplicationTests
+                Ц No active profile set, falling back to 1 default profile: "default"
+4266 [Test worker] INFO  o.s.d.r.c.RepositoryConfigurationDelegate
+                Ц Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+4333 [Test worker] INFO  o.s.d.r.c.RepositoryConfigurationDelegate
+                Ц Finished Spring Data repository scanning in 52 ms. Found 2 JPA repository interfaces.
+5014 [Test worker] WARN  o.s.w.c.s.GenericWebApplicationContext
+                Ц Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'projectingArgumentResolverBeanPostProcessor' defined in class path resource [org/springframework/data/web/config/ProjectingArgumentResolverRegistrar.class]: BeanPostProcessor before instantiation of bean failed
+5044 [Test worker] INFO  o.s.b.a.l.ConditionEvaluationReportLogger
+                Ц 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+6357 [Test worker] ERROR o.s.boot.SpringApplication
+                Ц Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'projectingArgumentResolverBeanPostProcessor' defined in class path resource [org/springframework/data/web/config/ProjectingArgumentResolverRegistrar.class]: BeanPostProcessor before instantiation of bean failed
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:515)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:326)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:324)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:205)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.registerBeanPostProcessors(PostProcessorRegistrationDelegate.java:273)
+	at org.springframework.context.support.AbstractApplicationContext.registerBeanPostProcessors(AbstractApplicationContext.java:763)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:568)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:732)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:434)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:310)
+	at org.springframework.boot.test.context.SpringBootContextLoader.lambda$loadContext$3(SpringBootContextLoader.java:137)
+	at org.springframework.util.function.ThrowingSupplier.get(ThrowingSupplier.java:58)
+	at org.springframework.util.function.ThrowingSupplier.get(ThrowingSupplier.java:46)
+	at org.springframework.boot.SpringApplication.withHook(SpringApplication.java:1388)
+	at org.springframework.boot.test.context.SpringBootContextLoader$ContextLoaderHook.run(SpringBootContextLoader.java:545)
+	at org.springframework.boot.test.context.SpringBootContextLoader.loadContext(SpringBootContextLoader.java:137)
+	at org.springframework.boot.test.context.SpringBootContextLoader.loadContext(SpringBootContextLoader.java:108)
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContextInternal(DefaultCacheAwareContextLoaderDelegate.java:184)
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContext(DefaultCacheAwareContextLoaderDelegate.java:118)
+	at org.springframework.test.context.support.DefaultTestContext.getApplicationContext(DefaultTestContext.java:127)
+	at org.springframework.test.context.web.ServletTestExecutionListener.setUpRequestContextIfNecessary(ServletTestExecutionListener.java:191)
+	at org.springframework.test.context.web.ServletTestExecutionListener.prepareTestInstance(ServletTestExecutionListener.java:130)
+	at org.springframework.test.context.TestContextManager.prepareTestInstance(TestContextManager.java:241)
+	at org.springframework.test.context.junit.jupiter.SpringExtension.postProcessTestInstance(SpringExtension.java:138)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$invokeTestInstancePostProcessors$10(ClassBasedTestDescriptor.java:377)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.executeAndMaskThrowable(ClassBasedTestDescriptor.java:382)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$invokeTestInstancePostProcessors$11(ClassBasedTestDescriptor.java:377)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
+	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1625)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.StreamSpliterators$WrappingSpliterator.forEachRemaining(StreamSpliterators.java:310)
+	at java.base/java.util.stream.Streams$ConcatSpliterator.forEachRemaining(Streams.java:735)
+	at java.base/java.util.stream.Streams$ConcatSpliterator.forEachRemaining(Streams.java:734)
+	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.invokeTestInstancePostProcessors(ClassBasedTestDescriptor.java:376)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$instantiateAndPostProcessTestInstance$6(ClassBasedTestDescriptor.java:289)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.instantiateAndPostProcessTestInstance(ClassBasedTestDescriptor.java:288)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$testInstancesProvider$4(ClassBasedTestDescriptor.java:278)
+	at java.base/java.util.Optional.orElseGet(Optional.java:364)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$testInstancesProvider$5(ClassBasedTestDescriptor.java:277)
+	at org.junit.jupiter.engine.execution.TestInstancesProvider.getTestInstances(TestInstancesProvider.java:31)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$prepare$0(TestMethodTestDescriptor.java:105)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.prepare(TestMethodTestDescriptor.java:104)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.prepare(TestMethodTestDescriptor.java:68)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$prepare$2(NodeTestTask.java:123)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.prepare(NodeTestTask.java:123)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:90)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:35)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:54)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:107)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:88)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:54)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:67)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:52)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:114)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:86)
+	at org.junit.platform.launcher.core.DefaultLauncherSession$DelegatingLauncher.execute(DefaultLauncherSession.java:86)
+	at org.junit.platform.launcher.core.SessionPerRequestLauncher.execute(SessionPerRequestLauncher.java:53)
+	at org.gradle.api.internal.tasks.testing.junitplatform.JUnitPlatformTestClassProcessor$CollectAllTestClassesExecutor.processAllTestClasses(JUnitPlatformTestClassProcessor.java:99)
+	at org.gradle.api.internal.tasks.testing.junitplatform.JUnitPlatformTestClassProcessor$CollectAllTestClassesExecutor.access$000(JUnitPlatformTestClassProcessor.java:79)
+	at org.gradle.api.internal.tasks.testing.junitplatform.JUnitPlatformTestClassProcessor.stop(JUnitPlatformTestClassProcessor.java:75)
+	at org.gradle.api.internal.tasks.testing.SuiteTestClassProcessor.stop(SuiteTestClassProcessor.java:62)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:36)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:24)
+	at org.gradle.internal.dispatch.ContextClassLoaderDispatch.dispatch(ContextClassLoaderDispatch.java:33)
+	at org.gradle.internal.dispatch.ProxyDispatchAdapter$DispatchingInvocationHandler.invoke(ProxyDispatchAdapter.java:94)
+	at jdk.proxy1/jdk.proxy1.$Proxy2.stop(Unknown Source)
+	at org.gradle.api.internal.tasks.testing.worker.TestWorker$3.run(TestWorker.java:193)
+	at org.gradle.api.internal.tasks.testing.worker.TestWorker.executeAndMaintainThreadName(TestWorker.java:129)
+	at org.gradle.api.internal.tasks.testing.worker.TestWorker.execute(TestWorker.java:100)
+	at org.gradle.api.internal.tasks.testing.worker.TestWorker.execute(TestWorker.java:60)
+	at org.gradle.process.internal.worker.child.ActionExecutionWorker.execute(ActionExecutionWorker.java:56)
+	at org.gradle.process.internal.worker.child.SystemApplicationClassLoaderWorker.call(SystemApplicationClassLoaderWorker.java:113)
+	at org.gradle.process.internal.worker.child.SystemApplicationClassLoaderWorker.call(SystemApplicationClassLoaderWorker.java:65)
+	at worker.org.gradle.process.internal.worker.GradleWorkerMain.run(GradleWorkerMain.java:69)
+	at worker.org.gradle.process.internal.worker.GradleWorkerMain.main(GradleWorkerMain.java:74)
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration': warning no match for this type name: com.example.task1424.services [Xlint:invalidAbsoluteTypeName]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:605)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:520)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:326)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:324)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:415)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1332)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1162)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:560)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:520)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:326)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:324)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:205)
+	at org.springframework.aop.framework.autoproxy.BeanFactoryAdvisorRetrievalHelper.findAdvisorBeans(BeanFactoryAdvisorRetrievalHelper.java:91)
+	at org.springframework.aop.framework.autoproxy.AbstractAdvisorAutoProxyCreator.findCandidateAdvisors(AbstractAdvisorAutoProxyCreator.java:111)
+	at org.springframework.aop.aspectj.annotation.AnnotationAwareAspectJAutoProxyCreator.findCandidateAdvisors(AnnotationAwareAspectJAutoProxyCreator.java:92)
+	at org.springframework.aop.aspectj.autoproxy.AspectJAwareAdvisorAutoProxyCreator.shouldSkip(AspectJAwareAdvisorAutoProxyCreator.java:101)
+	at org.springframework.aop.framework.autoproxy.AbstractAutoProxyCreator.postProcessBeforeInstantiation(AbstractAutoProxyCreator.java:280)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyBeanPostProcessorsBeforeInstantiation(AbstractAutowireCapableBeanFactory.java:1127)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.resolveBeforeInstantiation(AbstractAutowireCapableBeanFactory.java:1102)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:509)
+	... 104 common frames omitted
+Caused by: java.lang.IllegalArgumentException: warning no match for this type name: com.example.task1424.services [Xlint:invalidAbsoluteTypeName]
+	at org.aspectj.weaver.tools.PointcutParser.parsePointcutExpression(PointcutParser.java:319)
+	at org.springframework.aop.aspectj.AspectJExpressionPointcut.buildPointcutExpression(AspectJExpressionPointcut.java:222)
+	at org.springframework.aop.aspectj.AspectJExpressionPointcut.obtainPointcutExpression(AspectJExpressionPointcut.java:193)
+	at org.springframework.aop.aspectj.AspectJExpressionPointcut.getClassFilter(AspectJExpressionPointcut.java:172)
+	at org.springframework.aop.support.AopUtils.canApply(AopUtils.java:226)
+	at org.springframework.aop.support.AopUtils.canApply(AopUtils.java:288)
+	at org.springframework.aop.support.AopUtils.findAdvisorsThatCanApply(AopUtils.java:320)
+	at org.springframework.aop.framework.autoproxy.AbstractAdvisorAutoProxyCreator.findAdvisorsThatCanApply(AbstractAdvisorAutoProxyCreator.java:128)
+	at org.springframework.aop.framework.autoproxy.AbstractAdvisorAutoProxyCreator.findEligibleAdvisors(AbstractAdvisorAutoProxyCreator.java:97)
+	at org.springframework.aop.framework.autoproxy.AbstractAdvisorAutoProxyCreator.getAdvicesAndAdvisorsForBean(AbstractAdvisorAutoProxyCreator.java:78)
+	at org.springframework.aop.framework.autoproxy.AbstractAutoProxyCreator.wrapIfNecessary(AbstractAutoProxyCreator.java:366)
+	at org.springframework.aop.framework.autoproxy.AbstractAutoProxyCreator.postProcessAfterInitialization(AbstractAutoProxyCreator.java:318)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyBeanPostProcessorsAfterInitialization(AbstractAutowireCapableBeanFactory.java:434)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1773)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:598)
+	... 126 common frames omitted
+6389 [Test worker] ERROR o.s.test.context.TestContextManager
+                Ц Caught exception while allowing TestExecutionListener [org.springframework.test.context.web.ServletTestExecutionListener] to prepare test instance [com.example.task1424.Task1424ApplicationTests@2f79f192]
+java.lang.IllegalStateException: Failed to load ApplicationContext for [WebMergedContextConfiguration@3f9b7fe1 testClass = com.example.task1424.Task1424ApplicationTests, locations = [], classes = [com.example.task1424.Task1424Application], contextInitializerClasses = [], activeProfiles = [], propertySourceLocations = [], propertySourceProperties = ["org.springframework.boot.test.context.SpringBootTestContextBootstrapper=true"], contextCustomizers = [org.springframework.boot.test.autoconfigure.actuate.observability.ObservabilityContextCustomizerFactory$DisableObservabilityContextCustomizer@9da1, org.springframework.boot.test.autoconfigure.properties.PropertyMappingContextCustomizer@0, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverContextCustomizerFactory$Customizer@6a62689d, org.springframework.boot.test.context.filter.ExcludeFilterContextCustomizer@29a60c27, org.springframework.boot.test.json.DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer@533b266e, org.springframework.boot.test.mock.mockito.MockitoContextCustomizer@0, org.springframework.boot.test.web.client.TestRestTemplateContextCustomizer@46e8a539, org.springframework.boot.test.context.SpringBootTestAnnotation@8ae4f2a0], resourceBasePath = "src/main/webapp", contextLoader = org.springframework.boot.test.context.SpringBootContextLoader, parent = null]
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContext(DefaultCacheAwareContextLoaderDelegate.java:142)
+	at org.springframework.test.context.support.DefaultTestContext.getApplicationContext(DefaultTestContext.java:127)
+	at org.springframework.test.context.web.ServletTestExecutionListener.setUpRequestContextIfNecessary(ServletTestExecutionListener.java:191)
+	at org.springframework.test.context.web.ServletTestExecutionListener.prepareTestInstance(ServletTestExecutionListener.java:130)
+	at org.springframework.test.context.TestContextManager.prepareTestInstance(TestContextManager.java:241)
+	at org.springframework.test.context.junit.jupiter.SpringExtension.postProcessTestInstance(SpringExtension.java:138)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$invokeTestInstancePostProcessors$10(ClassBasedTestDescriptor.java:377)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.executeAndMaskThrowable(ClassBasedTestDescriptor.java:382)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$invokeTestInstancePostProcessors$11(ClassBasedTestDescriptor.java:377)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
+	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1625)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.StreamSpliterators$WrappingSpliterator.forEachRemaining(StreamSpliterators.java:310)
+	at java.base/java.util.stream.Streams$ConcatSpliterator.forEachRemaining(Streams.java:735)
+	at java.base/java.util.stream.Streams$ConcatSpliterator.forEachRemaining(Streams.java:734)
+	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.invokeTestInstancePostProcessors(ClassBasedTestDescriptor.java:376)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$instantiateAndPostProcessTestInstance$6(ClassBasedTestDescriptor.java:289)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.instantiateAndPostProcessTestInstance(ClassBasedTestDescriptor.java:288)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$testInstancesProvider$4(ClassBasedTestDescriptor.java:278)
+	at java.base/java.util.Optional.orElseGet(Optional.java:364)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$testInstancesProvider$5(ClassBasedTestDescriptor.java:277)
+	at org.junit.jupiter.engine.execution.TestInstancesProvider.getTestInstances(TestInstancesProvider.java:31)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$prepare$0(TestMethodTestDescriptor.java:105)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.prepare(TestMethodTestDescriptor.java:104)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.prepare(TestMethodTestDescriptor.java:68)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$prepare$2(NodeTestTask.java:123)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.prepare(NodeTestTask.java:123)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:90)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:35)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:54)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:107)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:88)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:54)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:67)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:52)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:114)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:86)
+	at org.junit.platform.launcher.core.DefaultLauncherSession$DelegatingLauncher.execute(DefaultLauncherSession.java:86)
+	at org.junit.platform.launcher.core.SessionPerRequestLauncher.execute(SessionPerRequestLauncher.java:53)
+	at org.gradle.api.internal.tasks.testing.junitplatform.JUnitPlatformTestClassProcessor$CollectAllTestClassesExecutor.processAllTestClasses(JUnitPlatformTestClassProcessor.java:99)
+	at org.gradle.api.internal.tasks.testing.junitplatform.JUnitPlatformTestClassProcessor$CollectAllTestClassesExecutor.access$000(JUnitPlatformTestClassProcessor.java:79)
+	at org.gradle.api.internal.tasks.testing.junitplatform.JUnitPlatformTestClassProcessor.stop(JUnitPlatformTestClassProcessor.java:75)
+	at org.gradle.api.internal.tasks.testing.SuiteTestClassProcessor.stop(SuiteTestClassProcessor.java:62)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:36)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:24)
+	at org.gradle.internal.dispatch.ContextClassLoaderDispatch.dispatch(ContextClassLoaderDispatch.java:33)
+	at org.gradle.internal.dispatch.ProxyDispatchAdapter$DispatchingInvocationHandler.invoke(ProxyDispatchAdapter.java:94)
+	at jdk.proxy1/jdk.proxy1.$Proxy2.stop(Unknown Source)
+	at org.gradle.api.internal.tasks.testing.worker.TestWorker$3.run(TestWorker.java:193)
+	at org.gradle.api.internal.tasks.testing.worker.TestWorker.executeAndMaintainThreadName(TestWorker.java:129)
+	at org.gradle.api.internal.tasks.testing.worker.TestWorker.execute(TestWorker.java:100)
+	at org.gradle.api.internal.tasks.testing.worker.TestWorker.execute(TestWorker.java:60)
+	at org.gradle.process.internal.worker.child.ActionExecutionWorker.execute(ActionExecutionWorker.java:56)
+	at org.gradle.process.internal.worker.child.SystemApplicationClassLoaderWorker.call(SystemApplicationClassLoaderWorker.java:113)
+	at org.gradle.process.internal.worker.child.SystemApplicationClassLoaderWorker.call(SystemApplicationClassLoaderWorker.java:65)
+	at worker.org.gradle.process.internal.worker.GradleWorkerMain.run(GradleWorkerMain.java:69)
+	at worker.org.gradle.process.internal.worker.GradleWorkerMain.main(GradleWorkerMain.java:74)
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'projectingArgumentResolverBeanPostProcessor' defined in class path resource [org/springframework/data/web/config/ProjectingArgumentResolverRegistrar.class]: BeanPostProcessor before instantiation of bean failed
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:515)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:326)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:324)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:205)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.registerBeanPostProcessors(PostProcessorRegistrationDelegate.java:273)
+	at org.springframework.context.support.AbstractApplicationContext.registerBeanPostProcessors(AbstractApplicationContext.java:763)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:568)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:732)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:434)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:310)
+	at org.springframework.boot.test.context.SpringBootContextLoader.lambda$loadContext$3(SpringBootContextLoader.java:137)
+	at org.springframework.util.function.ThrowingSupplier.get(ThrowingSupplier.java:58)
+	at org.springframework.util.function.ThrowingSupplier.get(ThrowingSupplier.java:46)
+	at org.springframework.boot.SpringApplication.withHook(SpringApplication.java:1388)
+	at org.springframework.boot.test.context.SpringBootContextLoader$ContextLoaderHook.run(SpringBootContextLoader.java:545)
+	at org.springframework.boot.test.context.SpringBootContextLoader.loadContext(SpringBootContextLoader.java:137)
+	at org.springframework.boot.test.context.SpringBootContextLoader.loadContext(SpringBootContextLoader.java:108)
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContextInternal(DefaultCacheAwareContextLoaderDelegate.java:184)
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContext(DefaultCacheAwareContextLoaderDelegate.java:118)
+	... 85 common frames omitted
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration': warning no match for this type name: com.example.task1424.services [Xlint:invalidAbsoluteTypeName]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:605)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:520)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:326)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:324)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:415)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1332)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1162)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:560)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:520)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:326)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:324)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:205)
+	at org.springframework.aop.framework.autoproxy.BeanFactoryAdvisorRetrievalHelper.findAdvisorBeans(BeanFactoryAdvisorRetrievalHelper.java:91)
+	at org.springframework.aop.framework.autoproxy.AbstractAdvisorAutoProxyCreator.findCandidateAdvisors(AbstractAdvisorAutoProxyCreator.java:111)
+	at org.springframework.aop.aspectj.annotation.AnnotationAwareAspectJAutoProxyCreator.findCandidateAdvisors(AnnotationAwareAspectJAutoProxyCreator.java:92)
+	at org.springframework.aop.aspectj.autoproxy.AspectJAwareAdvisorAutoProxyCreator.shouldSkip(AspectJAwareAdvisorAutoProxyCreator.java:101)
+	at org.springframework.aop.framework.autoproxy.AbstractAutoProxyCreator.postProcessBeforeInstantiation(AbstractAutoProxyCreator.java:280)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyBeanPostProcessorsBeforeInstantiation(AbstractAutowireCapableBeanFactory.java:1127)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.resolveBeforeInstantiation(AbstractAutowireCapableBeanFactory.java:1102)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:509)
+	... 104 common frames omitted
+Caused by: java.lang.IllegalArgumentException: warning no match for this type name: com.example.task1424.services [Xlint:invalidAbsoluteTypeName]
+	at org.aspectj.weaver.tools.PointcutParser.parsePointcutExpression(PointcutParser.java:319)
+	at org.springframework.aop.aspectj.AspectJExpressionPointcut.buildPointcutExpression(AspectJExpressionPointcut.java:222)
+	at org.springframework.aop.aspectj.AspectJExpressionPointcut.obtainPointcutExpression(AspectJExpressionPointcut.java:193)
+	at org.springframework.aop.aspectj.AspectJExpressionPointcut.getClassFilter(AspectJExpressionPointcut.java:172)
+	at org.springframework.aop.support.AopUtils.canApply(AopUtils.java:226)
+	at org.springframework.aop.support.AopUtils.canApply(AopUtils.java:288)
+	at org.springframework.aop.support.AopUtils.findAdvisorsThatCanApply(AopUtils.java:320)
+	at org.springframework.aop.framework.autoproxy.AbstractAdvisorAutoProxyCreator.findAdvisorsThatCanApply(AbstractAdvisorAutoProxyCreator.java:128)
+	at org.springframework.aop.framework.autoproxy.AbstractAdvisorAutoProxyCreator.findEligibleAdvisors(AbstractAdvisorAutoProxyCreator.java:97)
+	at org.springframework.aop.framework.autoproxy.AbstractAdvisorAutoProxyCreator.getAdvicesAndAdvisorsForBean(AbstractAdvisorAutoProxyCreator.java:78)
+	at org.springframework.aop.framework.autoproxy.AbstractAutoProxyCreator.wrapIfNecessary(AbstractAutoProxyCreator.java:366)
+	at org.springframework.aop.framework.autoproxy.AbstractAutoProxyCreator.postProcessAfterInitialization(AbstractAutoProxyCreator.java:318)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyBeanPostProcessorsAfterInitialization(AbstractAutowireCapableBeanFactory.java:434)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1773)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:598)
+	... 126 common frames omitted
+560  [Test worker] INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils
+                Ц Could not detect default configuration classes for test class [com.example.task1424.Task1424ApplicationTests]: Task1424ApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+1143 [Test worker] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper
+                Ц Found @SpringBootConfiguration com.example.task1424.Task1424Application for test class com.example.task1424.Task1424ApplicationTests
+3532 [Test worker] INFO  c.e.t.Task1424ApplicationTests
+                Ц Starting Task1424ApplicationTests using Java 19.0.2 with PID 5320 (started by ¬ладелец in F:\IdeaProjects\java-4sem\task20)
+3532 [Test worker] INFO  c.e.t.Task1424ApplicationTests
+                Ц No active profile set, falling back to 1 default profile: "default"
+4297 [Test worker] INFO  o.s.d.r.c.RepositoryConfigurationDelegate
+                Ц Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+6147 [Test worker] INFO  o.s.d.r.c.RepositoryConfigurationDelegate
+                Ц Finished Spring Data repository scanning in 59 ms. Found 2 JPA repository interfaces.
+7301 [Test worker] INFO  com.zaxxer.hikari.HikariDataSource
+                Ц HikariPool-1 - Starting...
+7633 [Test worker] INFO  com.zaxxer.hikari.pool.HikariPool
+                Ц HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@afde064
+7637 [Test worker] INFO  com.zaxxer.hikari.HikariDataSource
+                Ц HikariPool-1 - Start completed.
+7713 [Test worker] INFO  o.h.jpa.internal.util.LogHelper
+                Ц HHH000204: Processing PersistenceUnitInfo [name: default]
+7815 [Test worker] INFO  org.hibernate.Version
+                Ц HHH000412: Hibernate ORM core version 6.1.7.Final
+8436 [Test worker] INFO  SQL dialect
+                Ц HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+9499 [Test worker] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator
+                Ц HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+9515 [Test worker] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean
+                Ц Initialized JPA EntityManagerFactory for persistence unit 'default'
+10192 [Test worker] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration
+                Ц spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+11744 [Test worker] INFO  c.e.t.Task1424ApplicationTests
+                Ц Started Task1424ApplicationTests in 10.321 seconds (process running for 13.135)
+11984 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean
+                Ц Closing JPA EntityManagerFactory for persistence unit 'default'
+11988 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource
+                Ц HikariPool-1 - Shutdown initiated...
+11996 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource
+                Ц HikariPool-1 - Shutdown completed.
+842  [main] INFO  c.e.task1424.Task1424Application
+                Ц Starting Task1424Application using Java 19.0.2 with PID 132 (F:\IdeaProjects\java-4sem\task20\build\classes\java\main started by ¬ладелец in F:\IdeaProjects\java-4sem\task20)
+844  [main] INFO  c.e.task1424.Task1424Application
+                Ц No active profile set, falling back to 1 default profile: "default"
+2135 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate
+                Ц Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2193 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate
+                Ц Finished Spring Data repository scanning in 49 ms. Found 2 JPA repository interfaces.
+3085 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer
+                Ц Tomcat initialized with port(s): 8080 (http)
+3097 [main] INFO  o.a.coyote.http11.Http11NioProtocol
+                Ц Initializing ProtocolHandler ["http-nio-8080"]
+3098 [main] INFO  o.a.catalina.core.StandardService
+                Ц Starting service [Tomcat]
+3098 [main] INFO  o.a.catalina.core.StandardEngine
+                Ц Starting Servlet engine: [Apache Tomcat/10.1.7]
+3230 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]
+                Ц Initializing Spring embedded WebApplicationContext
+3230 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext
+                Ц Root WebApplicationContext: initialization completed in 2342 ms
+3429 [main] INFO  com.zaxxer.hikari.HikariDataSource
+                Ц HikariPool-1 - Starting...
+4879 [main] INFO  com.zaxxer.hikari.pool.HikariPool
+                Ц HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@dbddbe3
+4881 [main] INFO  com.zaxxer.hikari.HikariDataSource
+                Ц HikariPool-1 - Start completed.
+4935 [main] INFO  o.h.jpa.internal.util.LogHelper
+                Ц HHH000204: Processing PersistenceUnitInfo [name: default]
+5029 [main] INFO  org.hibernate.Version
+                Ц HHH000412: Hibernate ORM core version 6.1.7.Final
+5517 [main] INFO  SQL dialect
+                Ц HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+6623 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator
+                Ц HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+7413 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean
+                Ц Initialized JPA EntityManagerFactory for persistence unit 'default'
+7932 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration
+                Ц spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+8299 [main] INFO  o.a.coyote.http11.Http11NioProtocol
+                Ц Starting ProtocolHandler ["http-nio-8080"]
+8330 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer
+                Ц Tomcat started on port(s): 8080 (http) with context path ''
+8339 [main] INFO  c.e.task1424.Task1424Application
+                Ц Started Task1424Application in 7.845 seconds (process running for 9.008)
+22448 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]
+                Ц Initializing Spring DispatcherServlet 'dispatcherServlet'
+22448 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet
+                Ц Initializing Servlet 'dispatcherServlet'
+22449 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet
+                Ц Completed initialization in 1 ms
+22502 [http-nio-8080-exec-1] INFO  com.example.task1424.Aspect
+                Ц $
+22503 [http-nio-8080-exec-1] INFO  c.e.task1424.services.GameService
+                Ц Find all games
+310570 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean
+                Ц Closing JPA EntityManagerFactory for persistence unit 'default'
+310573 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource
+                Ц HikariPool-1 - Shutdown initiated...
+310581 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource
+                Ц HikariPool-1 - Shutdown completed.
+752  [main] INFO  c.e.task1424.Task1424Application
+                Ц Starting Task1424Application using Java 19.0.2 with PID 15512 (F:\IdeaProjects\java-4sem\task20\build\classes\java\main started by ¬ладелец in F:\IdeaProjects\java-4sem\task20)
+754  [main] INFO  c.e.task1424.Task1424Application
+                Ц No active profile set, falling back to 1 default profile: "default"
+2076 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate
+                Ц Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2128 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate
+                Ц Finished Spring Data repository scanning in 43 ms. Found 2 JPA repository interfaces.
+2940 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer
+                Ц Tomcat initialized with port(s): 8080 (http)
+4257 [main] INFO  o.a.coyote.http11.Http11NioProtocol
+                Ц Initializing ProtocolHandler ["http-nio-8080"]
+4258 [main] INFO  o.a.catalina.core.StandardService
+                Ц Starting service [Tomcat]
+4259 [main] INFO  o.a.catalina.core.StandardEngine
+                Ц Starting Servlet engine: [Apache Tomcat/10.1.7]
+4391 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]
+                Ц Initializing Spring embedded WebApplicationContext
+4391 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext
+                Ц Root WebApplicationContext: initialization completed in 3594 ms
+4555 [main] INFO  com.zaxxer.hikari.HikariDataSource
+                Ц HikariPool-1 - Starting...
+4797 [main] INFO  com.zaxxer.hikari.pool.HikariPool
+                Ц HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@724bf25f
+4798 [main] INFO  com.zaxxer.hikari.HikariDataSource
+                Ц HikariPool-1 - Start completed.
+4853 [main] INFO  o.h.jpa.internal.util.LogHelper
+                Ц HHH000204: Processing PersistenceUnitInfo [name: default]
+4944 [main] INFO  org.hibernate.Version
+                Ц HHH000412: Hibernate ORM core version 6.1.7.Final
+5401 [main] INFO  SQL dialect
+                Ц HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+6240 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator
+                Ц HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+6926 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean
+                Ц Initialized JPA EntityManagerFactory for persistence unit 'default'
+7430 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration
+                Ц spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+7827 [main] INFO  o.a.coyote.http11.Http11NioProtocol
+                Ц Starting ProtocolHandler ["http-nio-8080"]
+7870 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer
+                Ц Tomcat started on port(s): 8080 (http) with context path ''
+7881 [main] INFO  c.e.task1424.Task1424Application
+                Ц Started Task1424Application in 7.455 seconds (process running for 8.88)
+32307 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]
+                Ц Initializing Spring DispatcherServlet 'dispatcherServlet'
+32308 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet
+                Ц Initializing Servlet 'dispatcherServlet'
+32310 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet
+                Ц Completed initialization in 2 ms
+32365 [http-nio-8080-exec-1] INFO  c.e.task1424.services.GameService
+                Ц Find games by name one
+32502 [http-nio-8080-exec-1] INFO  com.example.task1424.Aspect
+                Ц List com.example.task1424.services.GameService.getGamesByName(String) executed for136mc

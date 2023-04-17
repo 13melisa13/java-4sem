@@ -1,0 +1,21 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Getting Started: Serving Web Content</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+<body>
+<div>
+    <form th:method="post" >
+        <input th:type="text" th:name="gameName" placeholder="Номер карты">
+        <button type="submit" th:method="add">Добавить</button>
+    </form>
+</div>
+<table th:each="game : ${games}" border="1px" bgcolor="#66cdaa">
+    <tr>
+        <td><span th:text="${game.getName()}"> Название игры </span></td>
+        <td><span th:text="${game.getCreationDate()}"> Дата создания </span></td>
+    </tr>
+</table>
+</body>
+</html>
